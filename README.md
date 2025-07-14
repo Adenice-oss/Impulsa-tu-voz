@@ -14,7 +14,7 @@ Este projeto propõe uma plataforma web de apoio, escuta e capacitação voltada
 - Layout **responsivo** e acessível
 - Seções implementadas: Apresentação, Objetivos, Depoimentos, Cursos, Contato
 - Publicado no Vercel
-- Organização em pastas: `html/`, `css/`, `imagens/`
+- Organização em pastas: `html/`, `css/`
 
 ### 2. Back-end (em desenvolvimento)
 
