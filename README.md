@@ -1,12 +1,55 @@
-# React + Vite
+# Projeto: Plataforma Mulheres Venezuelanas Refugiadas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **Link do site:** https://impulsa-tu-voz-chi.vercel.app/
 
-Currently, two official plugins are available:
+Este projeto propõe uma plataforma web de apoio, escuta e capacitação voltada a mulheres venezuelanas em situação de refúgio. A ideia central é oferecer um ambiente acolhedor, com acesso a cursos e informações úteis para promover empoderamento e inclusão social.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📁 Estrutura do Projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Front-end
+
+- Desenvolvido em **HTML5** e **CSS3**
+- Layout **responsivo** e acessível
+- Seções implementadas: Apresentação, Objetivos, Depoimentos, Cursos, Contato
+- Publicado no Vercel
+- Organização em pastas: `html/`, `css/`, `imagens/`
+
+### 2. Back-end (em desenvolvimento)
+
+- Estrutura criada com **Spring Boot** e **JDK 17**
+- Projeto Maven configurado
+- Endpoint `/hello` criado e testado no código (`HelloController.java`)
+- Execução local pendente por ajustes técnicos no ambiente Java
+
+---
+
+## 📝 Observações
+
+O front-end foi finalizado e está 100% funcional. O back-end encontra-se iniciado, com base pronta para futura integração via API REST e banco de dados.
+
+A arquitetura do projeto já considera a separação entre cliente e servidor, com fácil evolução técnica nas próximas etapas.
+
+---
+
+## 🔧 Tecnologias Utilizadas
+
+- HTML5 / CSS3  
+- Vercel (deploy)  
+- Spring Boot (backend base)  
+- Maven  
+- JDK 17 (OpenJDK Temurin)
+
+---
+
+## 👥 Equipe
+
+- Adenice Leitão
+- Ailton Lucas
+- Cyntia Salas  
+
+
+---
+
+📅 **Data de entrega:** 13/07/2025
