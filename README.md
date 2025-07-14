@@ -43,7 +43,7 @@ A arquitetura do projeto já considera a separação entre cliente e servidor, c
 
 ---
 
-## 👥 Equipe
+## 👥 Squad 065
 
 - Adenice Leitão
 - Ailton Lucas
